@@ -1,0 +1,7 @@
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/Application.java
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/singleresponsibility/good/PlainTextPrinter.java
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/singleresponsibility/good/Book.java
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/singleresponsibility/bad/Book.java
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/ServletInitializer.java
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/singleresponsibility/good/HtmlPrinter.java
+/Users/dannielhansel/development/spring/solidPrinciples/src/main/java/com/dh/code/solidPrinciples/singleresponsibility/good/Printer.java
