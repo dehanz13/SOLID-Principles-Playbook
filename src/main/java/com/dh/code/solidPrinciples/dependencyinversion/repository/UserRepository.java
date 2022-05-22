@@ -1,12 +1,11 @@
 package com.dh.code.solidPrinciples.dependencyinversion.repository;
 
-import com.dh.code.solidPrinciples.dependencyinversion.User;
+import com.dh.code.solidPrinciples.dependencyinversion.model.User;
 
-import java.util.Collections;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
 
+// user PlayersRepository instead
 public class UserRepository {
 
     /* DI */

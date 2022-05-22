@@ -1,7 +1,8 @@
 package com.dh.code.solidPrinciples.dependencyinversion;
 
+import com.dh.code.solidPrinciples.dependencyinversion.model.User;
 import com.dh.code.solidPrinciples.dependencyinversion.repository.UserRepository;
-import com.dh.code.solidPrinciples.dependencyinversion.service.UserSearcher;
+import com.dh.code.solidPrinciples.dependencyinversion.service.User.UserSearcher;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
