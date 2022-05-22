@@ -30,11 +30,13 @@ Depend on abstractions, not on concretions. High-level modules should not depend
 
 - Java (v11)
 - Maven (v3.8.5)
+- IntelliJ CE (or any preferred IDE)
+- Spring Boot v2.7.0 or later
 
 All of these must be available in your ```path```. To verify things are set up properly, you can run this:
 ```shell
-java --version
-maven --version
+$ java --version
+$ mvn --version
 ```
 
 If you have trouble with any of these, learn more about the PATH environment variable and how to fix it here for [mac/linux].
@@ -44,13 +46,13 @@ If you have trouble with any of these, learn more about the PATH environment var
 Clone the repository
 
 ```shell
-git clone git@github.com:dehanz13/SOLID-Principles-Playbook.git
+$ git clone git@github.com:dehanz13/SOLID-Principles-Playbook.git
 ```
 
-Build the project
+Build the project (optional: skip tests)
 
 ```shell
-mvn clean install
+$ mvn clean install -DskipTests=true
 ```
 
 Run application
