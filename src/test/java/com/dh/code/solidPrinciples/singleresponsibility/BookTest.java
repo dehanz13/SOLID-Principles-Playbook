@@ -1,10 +1,8 @@
-package com.dh.code.solidPrinciples.singleresponsibility.BookSearch;
+package com.dh.code.solidPrinciples.singleresponsibility;
 
-import com.dh.code.solidPrinciples.singleresponsibility.good.*;
-import org.junit.Before;
+import com.dh.code.solidPrinciples.singleresponsibility.BookSearchService.good.Book;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.junit.jupiter.MockitoExtension;
 
@@ -12,7 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
-import static org.mockito.Mockito.when;
 //import static org.assertj.core.internal.bytebuddy.matcher.ElementMatchers.is;
 
 //import static org.hamcrest.CoreMatchers.is;
