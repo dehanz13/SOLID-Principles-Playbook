@@ -2,6 +2,9 @@
 
 ---
 
+![Solid Principles]
+[![Coverage](.github/badges/jacoco.svg)](https://github.com/dehan13/solid-principles/actions/workflows/build.yml)
+
 ## Single Responsibility Principle
 
 Every class should have a single responsibility. A class should have one, and only one, reason to change.
@@ -58,3 +61,4 @@ $ mvn clean install -DskipTests=true
 Run application
 
 [mac/linux]: <https://mkyong.com/java/how-to-set-java_home-environment-variable-on-mac-os-x/>
+[Solid Principles]: <https://img.shields.io/badge/Solid%20Principle-Software%20Development%20Design%20Principles-green>

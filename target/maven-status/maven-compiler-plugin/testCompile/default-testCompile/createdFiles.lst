@@ -1,4 +1,9 @@
-com/dh/code/solidPrinciples/singleresponsibility/BookSearch/HtmlPrinterTest.class
-com/dh/code/solidPrinciples/singleresponsibility/BookSearch/BookTest.class
+com/dh/code/solidPrinciples/dependencyinversion/StaffSearcherImplTest.class
+com/dh/code/solidPrinciples/singleresponsibility/BookTest.class
+com/dh/code/solidPrinciples/dependencyinversion/UserSearcherTest$1.class
+com/dh/code/solidPrinciples/interfacesegregation/AnimalCommands/DogTest.class
+com/dh/code/solidPrinciples/singleresponsibility/PlainTextPrinterTest.class
+com/dh/code/solidPrinciples/dependencyinversion/UserSearcherTest.class
+com/dh/code/solidPrinciples/singleresponsibility/HtmlPrinterTest.class
 com/dh/code/solidPrinciples/ApplicationTests.class
-com/dh/code/solidPrinciples/singleresponsibility/BookSearch/PlainTextPrinterTest.class
+com/dh/code/solidPrinciples/interfacesegregation/AnimalCommands/CatTest.class
