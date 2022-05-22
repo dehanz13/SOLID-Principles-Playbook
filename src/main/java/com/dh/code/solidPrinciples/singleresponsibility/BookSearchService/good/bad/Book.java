@@ -1,4 +1,4 @@
-package com.dh.code.solidPrinciples.singleresponsibility.bad;
+package com.dh.code.solidPrinciples.singleresponsibility.BookSearchService.good.bad;
 
 import java.util.List;
 

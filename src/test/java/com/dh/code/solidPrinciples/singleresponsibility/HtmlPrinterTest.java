@@ -1,7 +1,7 @@
-package com.dh.code.solidPrinciples.singleresponsibility.BookSearch;
+package com.dh.code.solidPrinciples.singleresponsibility;
 
-import com.dh.code.solidPrinciples.singleresponsibility.good.HtmlPrinter;
-import com.dh.code.solidPrinciples.singleresponsibility.good.Printer;
+import com.dh.code.solidPrinciples.singleresponsibility.BookSearchService.good.HtmlPrinter;
+import com.dh.code.solidPrinciples.singleresponsibility.BookSearchService.good.Printer;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.junit.jupiter.MockitoExtension;
