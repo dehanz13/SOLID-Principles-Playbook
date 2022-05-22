@@ -1,4 +1,4 @@
-package com.dh.code.solidPrinciples.dependencyinversion;
+package com.dh.code.solidPrinciples.dependencyinversion.model;
 
 import java.util.Objects;
 
